@@ -10,6 +10,7 @@ O aplicativo tem como objetivo listar e cadastrar estabelecimentos locais, permi
 
 - React Native
 - TypeScript
+- Expo
 ---
 
 # 📂 Estrutura do Projeto
