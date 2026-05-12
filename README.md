@@ -1,6 +1,6 @@
 # 📱 LocalShop
 
-Projeto desenvolvido por Guilherme Augusto Trindade da Luz para a disciplina de **Programação para Dispositivos Móveis**, orientada pelo professor **James**.
+Projeto desenvolvido por **Guilherme Augusto Trindade da Luz** para a disciplina de **Programação para Dispositivos Móveis**, orientada pelo professor **James William Zeri de Campos**.
 
 O aplicativo tem como objetivo listar e cadastrar estabelecimentos locais, permitindo visualizar informações detalhadas sobre cada local.
 
